@@ -6,3 +6,4 @@ O curso será realizado por 50 minutos diários e compartilharei um pouco do dia
 ### Diário de Estudos
 * **Dia 1:** Entendimento da sintaxe básica e início dos estudos de tipos de variáveis
 * **Dia 2:** Vi algumas operações aritméticas básicas, variáveis do tipo string bem como formatações e alguns métodos utilizados para trabalhar com strings.
+* **Dia3:** Continuação de métodos de trabalho com strings, booleanos e operadores lógicos, definição e métodos de listas
