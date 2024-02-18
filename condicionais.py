@@ -6,6 +6,10 @@ if idade >= 18:
 else:
     print("Não pode beber")
 
+# Condicional ternária
+mensagem = "Pode beber" if idade >= 18 else "Não pode beber"
+print(mensagem)
+
 nome = "Marcela"
 if nome == "Marcela":
     print("Olá Marcela!")
