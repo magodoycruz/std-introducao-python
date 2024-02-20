@@ -1,6 +1,7 @@
 # if, elif, else
 
-idade = 23
+idade = int(input("Qual a sua idade?")) # Entrada de dados no Console
+
 if idade >= 18:
     print("Pode beber")
 else:
