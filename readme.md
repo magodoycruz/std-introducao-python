@@ -9,3 +9,4 @@ O curso será realizado por 50 minutos diários e compartilharei um pouco do dia
 * **Dia 3:** Continuação de métodos de trabalho com strings, booleanos e operadores lógicos, definição e métodos de listas.
 * **Dia 4:** Tuplas, dicionários e seus métodos. Estudos de condicionais.
 * **Dia 5:** Entrada de dados, laços de repetição, início do projeto do módulo
+* **Dia 6:** Funções. Comecei a criar as funções do projeto por conta
