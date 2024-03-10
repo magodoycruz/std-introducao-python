@@ -11,3 +11,4 @@ O curso será realizado por 50 minutos diários e compartilharei um pouco do dia
 * **Dia 5:** Entrada de dados, laços de repetição, início do projeto do módulo
 * **Dia 6:** Funções. Comecei a criar as funções do projeto por conta
 * **Dia 7:** Continuei me desafiando no projeto proposto sem assistir ao resultado. Ao final, verifiquei como foi feito pelo instrutor.
+* **Dia 8:** Exceções e Módulos
